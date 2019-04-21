@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task_2 {
+public class Task_3_2 {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in); //Реализуем сканер ввода данных
     int inputNumber = sc.nextInt(); //заносим введённые данные в переменную int

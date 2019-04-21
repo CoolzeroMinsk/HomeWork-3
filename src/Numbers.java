@@ -15,11 +15,11 @@ public class Numbers {
         int day = Integer.parseInt(a);
         int month = Integer.parseInt(b);
         int year = Integer.parseInt(c);
-
-        boolean isDayValid = day > 0 && day < 31;
-        boolean isMonthValid = month > 0 && month < 12;
-        boolean isYearValid = year > 0;
-
+                                                                //блок проверок
+        boolean isDayValid = day > 0 && day < 31;               //дней
+        boolean isMonthValid = month > 0 && month < 12;         //месяцев
+        boolean isYearValid = year > 0;                         //лет
+                                                                //
         if (!isDayValid || !isMonthValid || !isYearValid) {
             System.out.println("Вы ввели некорректную дату");
         } else {

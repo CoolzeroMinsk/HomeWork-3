@@ -1,4 +1,4 @@
-public class Main {
+public class Task_3_1 {
     public static void main(String[] args) {
 
         int s = 3700 * 24 * 7 * 8; //добавил врем для лучшего вывода информации
