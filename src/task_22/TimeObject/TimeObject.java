@@ -24,7 +24,7 @@ public class TimeObject {
         TimeObject someTime = new TimeObject(200, 150, 20); //в переменные
 
 
-        System.out.println("В нашем объекте ayLength " + dayLength.objectSecCalculate() + "секунда"); //выводим количество
+        System.out.println("В нашем объекте dayLength " + dayLength.objectSecCalculate() + "секунда"); //выводим количество
         System.out.println("В нашем объекте partOfDay " + partOfDay.objectSecCalculate() + "секунд"); //секунд в наших объектах
         System.out.println("В нашем объекте someTime " + someTime.objectSecCalculate() + "секунд");   //используя метод objectCalculate()
 
