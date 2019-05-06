@@ -1,4 +1,4 @@
-public class Array_17_2 {
+public class Array_17 {
 
     public static void main(String[] args) {
 
