@@ -1,7 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Array_17 {
+public class Array_16 {
     public static void main(String[] args) {
         int[] arrX = new int[10];                           //
         for (int i = 0; i < arrX.length; i++) {             //создаём и заполняем массив
