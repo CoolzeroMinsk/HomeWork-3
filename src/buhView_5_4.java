@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class buhView_5_4 {
     public static void main(String[] args) {
+        System.out.println("Введите число для расчёта");
         Scanner scanner = new Scanner(System.in); //
         int num = scanner.nextInt();              //вводим число
 
