@@ -1,3 +1,5 @@
+package Task_5;
+
 import java.util.Scanner;
 
 public class buhView_5_4 {

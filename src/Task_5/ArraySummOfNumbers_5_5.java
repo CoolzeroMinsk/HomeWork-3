@@ -1,3 +1,5 @@
+package Task_5;
+
 import java.util.Arrays;
 
 public class ArraySummOfNumbers_5_5 {

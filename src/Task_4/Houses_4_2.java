@@ -1,3 +1,5 @@
+package Task_4;
+
 import java.util.Scanner;
 
 public class Houses_4_2 {

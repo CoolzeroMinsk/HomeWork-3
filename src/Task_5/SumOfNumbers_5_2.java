@@ -1,3 +1,5 @@
+package Task_5;
+
 import java.util.Scanner;
 
 public class SumOfNumbers_5_2 {
