@@ -1,13 +1,13 @@
-
+package ArrayList_26;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Iterator;
 
-public class Main {
+class ArrayList_26 { 
     public static void main(String[] args) {
-        ArrayList<Integer> arrayList = new ArrayList<>(10);//Создаем коллекцию с 10-ью элементами
+        java.util.ArrayList<Integer> arrayList = new java.util.ArrayList<>(10);//Создаем коллекцию с 10-ью элементами
 
         for (int i = 0; i < 10; i++) {                          //заполняем случайными числами
             int x = ((int) (Math.round(Math.random() * 10)));
