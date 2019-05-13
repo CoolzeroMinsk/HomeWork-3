@@ -12,7 +12,6 @@ class ArrayList_26 {
         for (int i = 0; i < 10; i++) {                          //заполняем случайными числами
             int x = ((int) (Math.round(Math.random() * 10)));
             arrayList.add(i, x);
-
         }
         System.out.println(Arrays.asList("Наша коллекция имеет вид:" + arrayList));    //выводим получившийся результат
 
