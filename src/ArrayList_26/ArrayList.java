@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Iterator;
 
-class ArrayList_26 { 
+class ArrayList_26 {
     public static void main(String[] args) {
         java.util.ArrayList<Integer> arrayList = new java.util.ArrayList<>(10);//Создаем коллекцию с 10-ью элементами
 
