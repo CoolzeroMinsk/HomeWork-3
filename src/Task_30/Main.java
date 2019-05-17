@@ -62,8 +62,7 @@ public class Main {
                 symbol++;                                      //
             }
             System.out.println("Количество знаков препинания: " + symbol);                        //выводим на экран получившееся количество знаков
-
-
+            
         } catch (IOException e) {
             e.printStackTrace();
         }
