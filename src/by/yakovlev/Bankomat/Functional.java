@@ -5,7 +5,6 @@ class Functional {
 
     public void checkBanknote() {
 
-
     }
 
     public boolean moneyExtract(int moneyNeed, int[] array) {
